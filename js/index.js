@@ -79,3 +79,10 @@ navLinks[0].addEventListener('click', event => {
   event.preventDefault();
 });
 console.log(navLinks);
+
+// const funTitle = document.querySelector('h1');
+// funTitle.addEventListener('click', event => {
+//   event.target.style.color = 'blue';
+//   event.target.style.fontFamily = 'roboto';
+// });
+
